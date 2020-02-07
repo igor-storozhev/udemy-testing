@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7e68f9c-3229-408c-bfb8-98c29fc5341a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XIWGpYt7Jc0iHj4PD1bYAnQhUQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tests/unit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for blog_test.BlogTest">
+    <configuration name="Unittests for blog_test.BlogTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;blog_test.BlogTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for blog_test.BlogTest.test_create_post_in_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;blog_test.BlogTest.test_create_post_in_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for blog_test.BlogTest.test_json" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;blog_test.BlogTest.test_json&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for blog_test.BlogTest.test_json_no_posts" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;blog_test.BlogTest.test_json_no_posts&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;*_test.py&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in tests" />
+      <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_json" />
+      <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_json_no_posts" />
+      <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_create_post_in_blog" />
+      <item itemvalue="Python tests.Unittests for blog_test.BlogTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for blog_test.BlogTest" />
+        <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_create_post_in_blog" />
+        <item itemvalue="Python tests.Unittests in tests" />
+        <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_json_no_posts" />
+        <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_json" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7e68f9c-3229-408c-bfb8-98c29fc5341a" name="Default Changelist" comment="" />
+      <created>1580733995752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580733995752</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581079452954">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="514" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1581079452954" />
+    <state width="1377" height="260" key="GridCell.Tab.0.bottom" timestamp="1581081490539">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1581081490539" />
+    <state width="1377" height="260" key="GridCell.Tab.0.center" timestamp="1581081490539">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1581081490539" />
+    <state width="1377" height="260" key="GridCell.Tab.0.left" timestamp="1581081490539">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1581081490539" />
+    <state width="1377" height="260" key="GridCell.Tab.0.right" timestamp="1581081490539">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1581081490539" />
+    <state width="1377" height="322" key="GridCell.Tab.1.bottom" timestamp="1580738788812">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="322" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580738788812" />
+    <state width="1377" height="322" key="GridCell.Tab.1.center" timestamp="1580738788811">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="322" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580738788811" />
+    <state width="1377" height="322" key="GridCell.Tab.1.left" timestamp="1580738788809">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="322" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580738788809" />
+    <state width="1377" height="322" key="GridCell.Tab.1.right" timestamp="1580738788811">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="322" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580738788811" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581073410630">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1581073410630" />
+    <state x="977" y="268" width="672" height="678" key="search.everywhere.popup" timestamp="1580987081052">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="977" y="268" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1580987081052" />
+  </component>
+</project>
