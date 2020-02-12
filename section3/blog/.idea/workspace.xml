@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7e68f9c-3229-408c-bfb8-98c29fc5341a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/system/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/system/app_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/system/app_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/system/app_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +39,8 @@
       <recent name="$PROJECT_DIR$/tests/unit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for app_test.AppTest.test_print_blogs">
-    <configuration name="Unittests for app_test.AppTest.test_print_blogs" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for app_test.AppTest.test_print_post">
+    <configuration name="Unittests for app_test.AppTest.test_ask_create_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,81 +50,80 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;app_test.AppTest.test_print_blogs&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_ask_create_blog&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for blog_test.BlogTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for app_test.AppTest.test_ask_read_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;blog_test.BlogTest&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_ask_read_blog&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for blog_test.BlogTest.test_create_post_in_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for app_test.AppTest.test_menu_calls_print_blogs" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;blog_test.BlogTest.test_create_post_in_blog&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_menu_calls_print_blogs&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for blog_test.BlogTest.test_json_no_posts" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for app_test.AppTest.test_print_post" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/integration" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;blog_test.BlogTest.test_json_no_posts&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_print_post&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for app_test.AppTest.test_print_posts" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_pattern" value="&quot;*_test.py&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;app_test.AppTest.test_print_posts&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in tests" />
-      <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_json_no_posts" />
-      <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_create_post_in_blog" />
-      <item itemvalue="Python tests.Unittests for blog_test.BlogTest" />
-      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_print_blogs" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_menu_calls_print_blogs" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_create_blog" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_read_blog" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_print_posts" />
+      <item itemvalue="Python tests.Unittests for app_test.AppTest.test_print_post" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_print_blogs" />
-        <item itemvalue="Python tests.Unittests for blog_test.BlogTest" />
-        <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_create_post_in_blog" />
-        <item itemvalue="Python tests.Unittests in tests" />
-        <item itemvalue="Python tests.Unittests for blog_test.BlogTest.test_json_no_posts" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_print_post" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_print_posts" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_read_blog" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_ask_create_blog" />
+        <item itemvalue="Python tests.Unittests for app_test.AppTest.test_menu_calls_print_blogs" />
       </list>
     </recent_temporary>
   </component>
@@ -141,29 +138,45 @@
       <option name="presentableId" value="Default" />
       <updated>1580733995752</updated>
     </task>
+    <task id="LOCAL-00001" summary="mocking patch">
+      <created>1581339214874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581339214874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mocking patch" />
+    <option name="LAST_COMMIT_MESSAGE" value="mocking patch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="514" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581079452954">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="514" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1581079452954" />
-    <state width="1377" height="260" key="GridCell.Tab.0.bottom" timestamp="1581338469866">
+    <state x="774" y="111" width="782" height="912" key="CommitChangelistDialog2" timestamp="1581339214652">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1377" height="260" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1581338469866" />
-    <state width="1377" height="260" key="GridCell.Tab.0.center" timestamp="1581338469865">
+    <state x="774" y="111" width="782" height="912" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1581339214652" />
+    <state width="1377" height="260" key="GridCell.Tab.0.bottom" timestamp="1581515005910">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1377" height="260" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1581338469865" />
-    <state width="1377" height="260" key="GridCell.Tab.0.left" timestamp="1581338469865">
+    <state width="1377" height="260" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1581515005910" />
+    <state width="1377" height="260" key="GridCell.Tab.0.center" timestamp="1581515005909">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1377" height="260" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1581338469865" />
-    <state width="1377" height="260" key="GridCell.Tab.0.right" timestamp="1581338469865">
+    <state width="1377" height="260" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1581515005909" />
+    <state width="1377" height="260" key="GridCell.Tab.0.left" timestamp="1581515005909">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1377" height="260" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1581338469865" />
+    <state width="1377" height="260" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1581515005909" />
+    <state width="1377" height="260" key="GridCell.Tab.0.right" timestamp="1581515005910">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1581515005910" />
     <state width="1377" height="322" key="GridCell.Tab.1.bottom" timestamp="1580738788812">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -180,10 +193,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1377" height="322" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580738788811" />
-    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581335451910">
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581508096519">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1581335451910" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1581508096519" />
     <state x="977" y="268" width="672" height="678" key="search.everywhere.popup" timestamp="1580987081052">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
